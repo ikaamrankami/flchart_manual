@@ -1,6 +1,6 @@
 # chart_manual_design
 
-The Manual Chart to show the data also cuto change the UI, in setstate().
+The Manual Chart to show the data also auto change the UI, in setstate().
 
 ## Getting Started
 
