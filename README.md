@@ -1,6 +1,6 @@
 # chart_manual_design
 
-A new Flutter project.
+The Manual Chart to show the data also cuto change the UI, in setstate().
 
 ## Getting Started
 
